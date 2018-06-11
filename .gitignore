@@ -13,3 +13,6 @@
 /Tests/obj
 /.vs
 
+/.vscode
+*log.txt
+**/*logfile.txt
